@@ -26,7 +26,7 @@ clearDirec()
 #                                  \             (
 #                                   \_____________) 
 #
-#                                        - By LewdHak
+#                                        - By Retr0
 
 
 parser = argparse.ArgumentParser(usage="%(prog)s [--build] [--shell] [-i <IP> -p <PORT> -o <apk name>]")
